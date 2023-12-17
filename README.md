@@ -2,7 +2,9 @@
 
 Course work for Mobile Architect and Design
 
-FitFollow is the name of the app that I have spent the most time working on over the span of this course. The zip file containing all of the app's contents is named "FitFollow3". The other apps were side projects that were created along with the textbook provided for the course, which helped aid in the development of FitFollow.
+FitFollow is the name of the app that I have spent the most time working on over the span of this course. The zip file containing all of the app's contents is named "FitFollow3". My launch plan doc is also included in the zip file.
+
+The other apps and docs were side projects that were created along with the textbook provided for the course, which helped aid in the development of FitFollow.
 
 For the final project of this course, my fellow peers and I were given three different types of apps to choose from, and we had to pick which one we wanted to develop. I chose to develop a weight tracking app. The requirements of the app included:
 
